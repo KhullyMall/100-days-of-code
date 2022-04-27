@@ -26,4 +26,11 @@ Technical knowledge: HTML, CSS, Git/Github
 
 ### Day 3: Wednesday 27th April 2022
 
+Introduction to the basics of Javascript including functions. Created a password validation script. Adapted the original task so it can take an input from a HTML page then pass through the Javascript code to check whether password is correct. 
+
+It will also only accept 3 attempts at the password.
+
+Tweet: https://twitter.com/khullymall/status/1519351311506022401
+
+Technical Knowledge: HTML and Javascript
 
