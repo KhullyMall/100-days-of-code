@@ -34,3 +34,10 @@ Tweet: https://twitter.com/khullymall/status/1519351311506022401
 
 Technical Knowledge: HTML and Javascript
 
+### Day 4: Thursday 28th April 2022
+
+Further improved Javascript knowledge with Arrays and Objects. 
+
+Tweet: https://twitter.com/khullymall/status/1519750006848303107
+
+
