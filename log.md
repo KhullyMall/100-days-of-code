@@ -40,4 +40,12 @@ Further improved Javascript knowledge with Arrays and Objects.
 
 Tweet: https://twitter.com/khullymall/status/1519750006848303107
 
+### Day 5: Friday 29th April 2022
+
+Created a rock paper scissors game using Javascript. It will take in a username which is character, special character and length checked to esnure it is only letters and is not empty. The game will track games played, player wins, computer wins and player draws.
+
+Tweet: https://twitter.com/khullymall
+
+### Day 6: Saturday 30th April 2022
+
 
