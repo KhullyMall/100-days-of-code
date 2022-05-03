@@ -46,6 +46,25 @@ Created a rock paper scissors game using Javascript. It will take in a username 
 
 Tweet: https://twitter.com/khullymall
 
-### Day 6: Saturday 30th April 2022
+### Day 6,7,8: Saturday,Sunday,Monday April-May 2022
+
+After a long week, Saturday was rest day with a few Freecodecamp exercises. Sunday and Monday was an introduction to CodeWars. My new favourite way to learn how to code. Its more interactive and fun. The challenges make you search more Javascript syntax to find better solutions or optimise your code.
+
+Currently I get assigned 6th or 7th Kyu tasks. 
+
+Tweet:
+
+https://twitter.com/khullymall/status/1520465216210878477
+https://twitter.com/khullymall/status/1521188725228814337
+
+### Day Tuesday 3rd May 2022
+
+Understanding more and more how the DOM works and how to manipulate it. Enjoying learning how to mix HTML, CSS, Javascript to create a dynamic website.
+
+Want to adapt Rock paper scissors game to take user input.
+
+Tweet: https://twitter.com/khullymall/status/1521565504116248587
+Technical Knowledge: Javascript
+
 
 
