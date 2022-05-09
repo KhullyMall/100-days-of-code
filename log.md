@@ -57,7 +57,7 @@ Tweet:
 https://twitter.com/khullymall/status/1520465216210878477
 https://twitter.com/khullymall/status/1521188725228814337
 
-### Day Tuesday 3rd May 2022
+### Day 9: Tuesday 3rd May 2022
 
 Understanding more and more how the DOM works and how to manipulate it. Enjoying learning how to mix HTML, CSS, Javascript to create a dynamic website.
 
@@ -66,5 +66,26 @@ Want to adapt Rock paper scissors game to take user input.
 Tweet: https://twitter.com/khullymall/status/1521565504116248587
 Technical Knowledge: Javascript
 
+### Day 10: Wednesday 3rd May 2022
 
+Understanding how to receive data from an API and use it on a webpage. Started with the a Kanye API to receive Kanye quotes and display a new one on a click of a button. The list of Kanye quotes is then saved into a list and only original quotes are saved to the list.
+
+Realising that APIs are not as scary as first thought.
+
+Tweet: https://twitter.com/khullymall/status/1521941230267023367
+Technical Knowledge: Javascript, APIs, Fetch
+
+### Day 11 and 12: Thursday and Friday 3rd May 2022
+
+Further improved API knowledge and how to use the information provided to build a project from scratch.
+
+Happy with the progress made in today's hackathon. Created a multiple choice Trivia game.
+
+Tweet: https://twitter.com/khullymall/status/1522700741399429120
+
+### Day 13 and 14: Thursday and Friday 3rd May 2022
+
+Weekend. Rest and Recap tasks
+
+Tweet: https://twitter.com/khullymall/status/1523581582082158592
 
